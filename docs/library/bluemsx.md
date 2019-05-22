@@ -59,8 +59,8 @@ Frontend-level settings or features that the blueMSX core respects.
 | Restart           | ✔         |
 | Screenshots       | ✔         |
 | Saves             | ✕         |
-| States            | ✕         |
-| Rewind            | ✕         |
+| States            | ✔         |
+| Rewind            | ✔         |
 | Netplay           | ✕         |
 | Core Options      | ✔         |
 | RetroAchievements | ✕         |
